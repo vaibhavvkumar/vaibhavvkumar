@@ -1,5 +1,5 @@
 ### Vaibhav Kumar-@vaibhavvkumar 
-Hey👋! I am a software engineer and a full stack web developer focusing on improving the ride experience🛵Before that, I was in creating a static wenbsite of my YouTube channel. 
+Hey👋! I am a software engineer and a full stack web developer focusing on improving the ride experience🛵Before that, I was in creating a static website of my YouTube channel. 
 
 Previously worked on some mobile app development and front end web development. I love playing tennis, travelling, coffee, watching documentries, and all things space.
 
