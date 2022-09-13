@@ -10,7 +10,7 @@ Instagram: https://www.instagram.com/vaibhavvkumar/
 🎞 YouTube Channel 
 Mr Informative: https://www.youtube.com/c/MRINFORMATIVE24
 
-
+Some of my points:
 - 🔭 I’m currently working on ... Youtube Clone
 - 🌱 I’m currently learning ... Java
 - 👯 I’m looking to collaborate on ... AWS
@@ -19,4 +19,4 @@ Mr Informative: https://www.youtube.com/c/MRINFORMATIVE24
 - 📫 How to reach me: ... [Twitter]@idkvaibhav
 - 😄 Pronouns: ... Hi/Hie
 - ⚡ Fun fact: ... I am half finished
--->
+
