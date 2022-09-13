@@ -3,7 +3,7 @@ Hey👋! I am a software engineer and a full stack web developer focusing on imp
 
 Previously worked on some mobile app development and front end web development. I love playing tennis, travelling, coffee, watching documentries, and all things space.
 
-💬 Get in touch
+💬 Get in touch  🧲 
 Twitter: https://twitter.com/idkvaibhav
 Instagram: https://www.instagram.com/vaibhavvkumar/
 
