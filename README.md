@@ -4,19 +4,15 @@ Hey👋! I am a software engineer and a full stack web developer focusing on imp
 Previously worked on some mobile app development and front end web development. I love playing tennis, travelling, coffee, watching documentries, and all things space.
 
 💬 Get in touch  🧲 
-Twitter: https://twitter.com/idkvaibhav
 Instagram: https://www.instagram.com/vaibhavvkumar/
 
-🎞 YouTube Channel 
-Mr Informative: https://www.youtube.com/c/MRINFORMATIVE24
-
 Some of my points:
-- 🔭 I’m currently working on ... Youtube Clone
-- 🌱 I’m currently learning ... Java
-- 👯 I’m looking to collaborate on ... AWS
-- 🤔 I’m looking for help with ... Node.Js
+- 🔭 I’m currently working on ... Automating the BlackRock website
+- 🌱 I’m currently learning ... Selenium
+- 👯 I’m looking to collaborate on ... QAs
+- 🤔 I’m looking for help with ... Java
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Twitter]@idkvaibhav
+- 📫 How to reach me: ... 404 Error
 - 😄 Pronouns: ... Hi/Hie
 - ⚡ Fun fact: ... I am half finished
 
