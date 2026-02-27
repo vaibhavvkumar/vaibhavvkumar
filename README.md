@@ -4,7 +4,7 @@ Hey👋! I am a software engineer and a full stack web developer focusing on imp
 Previously worked on some mobile app development and front end web development. I love playing tennis, travelling, coffee, watching documentries, and all things space.
 
 💬 Get in touch  🧲 
-Instagram: https://www.instagram.com/vaibhavvkumar/
+vaibhavcool776@gmail.com
 
 Some of my points:
 - 🔭 I’m currently working on ... Automating the BlackRock website
